@@ -1,6 +1,6 @@
 This suite consists of two minimal and optimized Bash scripts designed to be executed within Live Linux environments (such as GParted Live). They allow smart backup and restoration of system partitions (including Windows NTFS) by skipping unallocated free space and applying dynamic compression.
 
-Official documentation and updates: http://ntgcorp.it/partclone
+Official documentation and updates: [http://ntgcorp.it/partclone](https://github.com/ntgcorp/ntjobs_partclone/)
 
 ---
 
@@ -96,4 +96,4 @@ To maximize compression efficiency and speed, boot into Windows before running t
 sdelete64.exe -z C:
 ```
 
-For more info, troubleshooting, and updates, visit: http://ntgjobs.it
+For more info, troubleshooting, and updates, visit: http://ntgcorp.it
