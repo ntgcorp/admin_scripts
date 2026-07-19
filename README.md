@@ -96,4 +96,4 @@ To maximize compression efficiency and speed, boot into Windows before running t
 sdelete64.exe -z C:
 ```
 
-For more info, troubleshooting, and updates, visit: http://ntgcorp.it
+For more info, troubleshooting, and updates, visit: http://www.ntgcorp.it
